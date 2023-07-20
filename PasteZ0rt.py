@@ -14,10 +14,8 @@ import atexit
 
 def Windows():
 
-		print'\033[0;31m'+"""\n-------------------------------------------------------------------
- -> Configuracion de Payload:
--------------------------------------------------------------------"""
-		print '\033[0;39m'
+	
+
 
 		NombreIndex = "index.html"
 		NombreHandlerConfig="Handler_Metasploit"
